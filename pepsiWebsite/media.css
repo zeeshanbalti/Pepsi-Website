@@ -1,0 +1,29 @@
+@media (max:1200px) {
+    .Navbar{
+        background-color: #0065c3;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        color: white;
+        font-size: 13px;
+        font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+        /* text-align: center; */
+        /* align-items: center; */
+        padding-top: 20px;
+      
+        /* background-image: url(./pepsilogo.img.png); */
+        /* background-repeat: no-repeat; */
+         
+    }
+    .Navbar{
+        position: sticky;
+        top: 2px;
+    }
+    .Navbar1{
+        margin: 0px;
+        padding-left: 20px;
+        padding-bottom: 0px;
+    }
+    
+    
+}
